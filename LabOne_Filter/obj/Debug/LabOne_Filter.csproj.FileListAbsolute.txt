@@ -1,0 +1,44 @@
+c:\users\martyjfox\documents\visual studio 2015\Projects\LabOne_Filter\LabOne_Filter\bin\Debug\LabOne_Filter.exe.config
+c:\users\martyjfox\documents\visual studio 2015\Projects\LabOne_Filter\LabOne_Filter\bin\Debug\LabOne_Filter.exe
+c:\users\martyjfox\documents\visual studio 2015\Projects\LabOne_Filter\LabOne_Filter\bin\Debug\LabOne_Filter.pdb
+c:\users\martyjfox\documents\visual studio 2015\Projects\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.csprojResolveAssemblyReference.cache
+c:\users\martyjfox\documents\visual studio 2015\Projects\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.Form1.resources
+c:\users\martyjfox\documents\visual studio 2015\Projects\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.Properties.Resources.resources
+c:\users\martyjfox\documents\visual studio 2015\Projects\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.csproj.GenerateResource.Cache
+c:\users\martyjfox\documents\visual studio 2015\Projects\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.exe
+c:\users\martyjfox\documents\visual studio 2015\Projects\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.pdb
+C:\Users\Knight\Documents\Visual Studio 2015\Projects\LabOne_Filter\LabOne_Filter\bin\Debug\LabOne_Filter.exe.config
+C:\Users\Knight\Documents\Visual Studio 2015\Projects\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.exe
+C:\Users\Knight\Documents\Visual Studio 2015\Projects\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.pdb
+C:\Users\Knight\Documents\Visual Studio 2015\Projects\LabOne_Filter\LabOne_Filter\bin\Debug\LabOne_Filter.exe
+C:\Users\Knight\Documents\Visual Studio 2015\Projects\LabOne_Filter\LabOne_Filter\bin\Debug\LabOne_Filter.pdb
+C:\Users\Knight\Documents\Visual Studio 2015\Projects\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.csprojResolveAssemblyReference.cache
+C:\Users\Knight\Documents\Visual Studio 2015\Projects\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.Form1.resources
+C:\Users\Knight\Documents\Visual Studio 2015\Projects\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.Properties.Resources.resources
+C:\Users\Knight\Documents\Visual Studio 2015\Projects\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.csproj.GenerateResource.Cache
+C:\Users\Knight\Documents\Visual Studio 2015\Projects\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.UserColor.resources
+C:\Users\Knight\Documents\Visual Studio 2015\Projects\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.StructEl.resources
+C:\Users\User\Desktop\LabOne_Filter\LabOne_Filter\bin\Debug\LabOne_Filter.exe.config
+C:\Users\User\Desktop\LabOne_Filter\LabOne_Filter\bin\Debug\LabOne_Filter.exe
+C:\Users\User\Desktop\LabOne_Filter\LabOne_Filter\bin\Debug\LabOne_Filter.pdb
+C:\Users\User\Desktop\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.Form1.resources
+C:\Users\User\Desktop\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.Properties.Resources.resources
+C:\Users\User\Desktop\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.StructEl.resources
+C:\Users\User\Desktop\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.UserColor.resources
+C:\Users\User\Desktop\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.exe
+C:\Users\User\Desktop\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.pdb
+C:\Users\User\Desktop\кг лаб 1\LabOne_Filter\LabOne_Filter\bin\Debug\LabOne_Filter.exe.config
+C:\Users\User\Desktop\кг лаб 1\LabOne_Filter\LabOne_Filter\bin\Debug\LabOne_Filter.exe
+C:\Users\User\Desktop\кг лаб 1\LabOne_Filter\LabOne_Filter\bin\Debug\LabOne_Filter.pdb
+C:\Users\User\Desktop\кг лаб 1\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\кг лаб 1\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.Form1.resources
+C:\Users\User\Desktop\кг лаб 1\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.Properties.Resources.resources
+C:\Users\User\Desktop\кг лаб 1\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.StructEl.resources
+C:\Users\User\Desktop\кг лаб 1\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.UserColor.resources
+C:\Users\User\Desktop\кг лаб 1\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.csproj.GenerateResource.cache
+C:\Users\User\Desktop\кг лаб 1\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\кг лаб 1\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.exe
+C:\Users\User\Desktop\кг лаб 1\LabOne_Filter\LabOne_Filter\obj\Debug\LabOne_Filter.pdb
